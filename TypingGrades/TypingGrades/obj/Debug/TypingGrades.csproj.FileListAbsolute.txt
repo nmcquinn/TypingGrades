@@ -1,0 +1,14 @@
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\bin\Debug\TypingGrades.exe.config
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\bin\Debug\TypingGrades.exe
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\bin\Debug\TypingGrades.pdb
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\obj\Debug\TypingGrades.csprojAssemblyReference.cache
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\obj\Debug\TypingGrades.csproj.CoreCompileInputs.cache
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\obj\Debug\TypingGrades.exe
+C:\Users\Nanette\Documents\TypingGrades\TypingGrades\obj\Debug\TypingGrades.pdb
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\bin\Debug\TypingGrades.exe.config
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\bin\Debug\TypingGrades.exe
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\bin\Debug\TypingGrades.pdb
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\obj\Debug\TypingGrades.csprojAssemblyReference.cache
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\obj\Debug\TypingGrades.csproj.CoreCompileInputs.cache
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\obj\Debug\TypingGrades.exe
+D:\WebDevelopmentCertificate\Spring2019\ITP 136 C# Intro\TypingGrades\TypingGrades\obj\Debug\TypingGrades.pdb
